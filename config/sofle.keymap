@@ -27,14 +27,7 @@
         };
     };
 
-    combos {
-        compatible = "zmk,combos";
-
-        spotlight {
-            bindings = <&none>;
-            key-positions = <52 54>;
-        };
-    };
+    combos { compatible = "zmk,combos"; };
 
     keymap {
         compatible = "zmk,keymap";
