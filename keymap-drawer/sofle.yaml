@@ -36,20 +36,20 @@ layers:
   - ^
   - '&'
   - KP MULTIPLY
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - (
+  - )
   - '|'
   - {t: ▽, type: trans}
   - '='
   - '-'
-  - (
+  - +
   - '{'
   - '['
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - ']'
   - '}'
-  - )
+  - ;
   - ':'
   - \
   - {t: ▽, type: trans}
